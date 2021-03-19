@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 branch 3
+=======
+branch 2 getttt
+>>>>>>> branch2
+
+hell in main
